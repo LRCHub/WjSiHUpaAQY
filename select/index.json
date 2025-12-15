@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "宮の橋アンダーセッション",
+  "base_artist": "秋山黄色",
+  "createdAt": "2025-12-15T05:58:26.284018Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宮の橋アンダーセッション",
+      "artist": "秋山黄色",
+      "has_synced": false,
+      "path": "select/pl_01_宮の橋アンダーセッション_秋山黄色.txt"
+    }
+  ]
+}
